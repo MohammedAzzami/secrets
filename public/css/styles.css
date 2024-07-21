@@ -29,3 +29,7 @@ footer {
   text-align: center;
   width: 100%;
 }
+
+.btn-google, .btn-facebook {
+  width: 100%;
+}
